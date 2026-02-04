@@ -10,8 +10,9 @@ As descrições de escopo abaixo foram extraídas das súmulas e conteúdos dos 
 - Arquivos de um mesmo algoritmo são listados juntos.
 - Cada entrada informa linguagem, autoria e uma frase de descrição.
 
-**Projeto e Análise de Algoritmos I (INF05027)**
-Escopo: análise e corretude de algoritmos, notação assintótica, teoria dos grafos, algoritmos e estruturas de dados para grafos e algoritmos gulosos.
+## Projeto e Análise de Algoritmos I (INF05027)
+
+**Escopo:** análise e corretude de algoritmos, notação assintótica, teoria dos grafos, algoritmos e estruturas de dados para grafos e algoritmos gulosos.
 
 **Introdução**
 | Algoritmo/Estrutura | Arquivos | Linguagem | Autor | Descrição |
@@ -36,8 +37,9 @@ Escopo: análise e corretude de algoritmos, notação assintótica, teoria dos g
 | Hierholzer (caminho euleriano) | [`hierholzer.py`](hierholzer.py) | Python | Bruno Iochins Grisci | Encontra um caminho euleriano em grafo direcionado usando pilha explícita. |
 | Welsh–Powell (coloração gulosa) | [`welsh_powell.py`](welsh_powell.py) | Python | Bruno Iochins Grisci | Colore vértices de um grafo usando ordenação por grau e estratégia gulosa. |
 
-**Projeto e Análise de Algoritmos II (INF05028)**
-Escopo: divisão e conquista, programação dinâmica, técnicas avançadas de projeto e estruturas de dados avançadas.
+## Projeto e Análise de Algoritmos II (INF05028)**
+
+**Escopo:** divisão e conquista, programação dinâmica, técnicas avançadas de projeto e estruturas de dados avançadas.
 
 **Divisão e Conquista**
 | Algoritmo | Arquivos | Linguagem | Autor | Descrição |
