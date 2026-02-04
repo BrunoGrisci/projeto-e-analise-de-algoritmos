@@ -3,8 +3,8 @@
 Repositório de códigos e exemplos para as disciplinas **INF05027 – Projeto e Análise de Algoritmos I** e **INF05028 – Projeto e Análise de Algoritmos II** do Instituto de Informática da UFRGS. O objetivo é concentrar implementações didáticas, exercícios e variações de algoritmos vistos em aula, facilitando o uso por diferentes alunos e professores ao longo do tempo.
 
 As descrições de escopo abaixo foram extraídas das súmulas e conteúdos dos planos de ensino:
-- PAA I: `PlanodeEnsinoPAA1.pdf`
-- PAA II: `PlanodeEnsinoPAA2.pdf`
+- PAA I: [`PlanodeEnsinoPAA1.pdf`](PlanodeEnsinoPAA1.pdf)
+- PAA II: [`PlanodeEnsinoPAA2.pdf`](PlanodeEnsinoPAA1.pdf)
 
 **Como ler o catálogo**
 - Arquivos de um mesmo algoritmo são listados juntos.
@@ -37,7 +37,7 @@ As descrições de escopo abaixo foram extraídas das súmulas e conteúdos dos 
 | Hierholzer (caminho euleriano) | [`hierholzer.py`](hierholzer.py) | Python | Bruno Iochins Grisci | Encontra um caminho euleriano em grafo direcionado usando pilha explícita. |
 | Welsh–Powell (coloração gulosa) | [`welsh_powell.py`](welsh_powell.py) | Python | Bruno Iochins Grisci | Colore vértices de um grafo usando ordenação por grau e estratégia gulosa. |
 
-## Projeto e Análise de Algoritmos II (INF05028)**
+## Projeto e Análise de Algoritmos II (INF05028)
 
 **Escopo:** divisão e conquista, programação dinâmica, técnicas avançadas de projeto e estruturas de dados avançadas.
 
