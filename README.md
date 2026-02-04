@@ -56,12 +56,15 @@ As descrições de escopo abaixo foram extraídas das súmulas e conteúdos dos 
 | --- | --- | --- | --- | --- |
 | Em construção | — | — | — | Implementações previstas para esta subárea. |
 
-**Licença**
+## Licença
+
 Este repositório é licenciado conforme o arquivo [`LICENSE`](LICENSE).
 
-**Institucional**
+## Institucional
+
 - Instituto de Informática (UFRGS): [https://www.inf.ufrgs.br](https://www.inf.ufrgs.br)
 - Universidade Federal do Rio Grande do Sul (UFRGS): [https://www.ufrgs.br](https://www.ufrgs.br)
 
-**Créditos e Contato Docente**
+## Créditos e Contato Docente
+
 - Prof. Bruno Iochins Grisci: [https://brunogrisci.github.io/](https://brunogrisci.github.io/)
