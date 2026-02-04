@@ -4,7 +4,7 @@ Repositório de códigos e exemplos para as disciplinas **INF05027 – Projeto e
 
 As descrições de escopo abaixo foram extraídas das súmulas e conteúdos dos planos de ensino:
 - PAA I: [`PlanodeEnsinoPAA1.pdf`](PlanodeEnsinoPAA1.pdf)
-- PAA II: [`PlanodeEnsinoPAA2.pdf`](PlanodeEnsinoPAA1.pdf)
+- PAA II: [`PlanodeEnsinoPAA2.pdf`](PlanodeEnsinoPAA2.pdf)
 
 **Como ler o catálogo**
 - Arquivos de um mesmo algoritmo são listados juntos.
