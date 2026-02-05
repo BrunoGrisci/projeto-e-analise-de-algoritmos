@@ -1,3 +1,5 @@
+![Projeto e Análise de Algoritmos — header](assets/banner.png)
+
 # Projeto e Análise de Algoritmos (INF05027/INF05028)
 
 Repositório de códigos e exemplos para as disciplinas **INF05027 – Projeto e Análise de Algoritmos I** e **INF05028 – Projeto e Análise de Algoritmos II** do Instituto de Informática da UFRGS. O objetivo é concentrar implementações didáticas, exercícios e variações de algoritmos vistos em aula, facilitando o uso por diferentes alunos e professores ao longo do tempo.
