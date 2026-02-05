@@ -17,7 +17,7 @@ As descrições de escopo abaixo foram extraídas das súmulas e conteúdos dos 
 **Introdução**
 | Algoritmo/Estrutura | Arquivos | Linguagem | Autor | Descrição |
 | --- | --- | --- | --- | --- |
-| Gale–Shapley (casamento estável) | [`galeshapley.py`](galeshapley.py) | Python | Bruno Iochins Grisci | Resolve o problema de casamento estável e inclui exemplos e análise empírica. |
+| Gale–Shapley (emparelhamento estável) | [`galeshapley.py`](galeshapley.py) | Python | Bruno Iochins Grisci | Resolve o problema de emparelhamento estável e inclui exemplos e análise empírica. |
 
 **Algoritmos para grafos**
 | Algoritmo | Arquivos | Linguagem | Autor | Descrição |
@@ -44,12 +44,14 @@ As descrições de escopo abaixo foram extraídas das súmulas e conteúdos dos 
 **Divisão e Conquista**
 | Algoritmo | Arquivos | Linguagem | Autor | Descrição |
 | --- | --- | --- | --- | --- |
-| Em construção | — | — | — | Implementações previstas para esta subárea. |
+| Contagem de Inversões | [`inversions.cpp`](paa2/inversions.cpp) | C++ | Lucas Nunes Alegre | Implementa o algoritmo de contagem de inversões em um array usando Divisão e Conquista. |
+| Par Mais Próximo (2D) | [`closest_pair.cpp`](paa2/closest_pair.cpp) | C++ | Lucas Nunes Alegre | Implementa o algoritmo de Par Mais Próximo em 2D usando abordagem de Divisão e Conquista. |
 
 **Programação Dinâmica**
 | Algoritmo | Arquivos | Linguagem | Autor | Descrição |
 | --- | --- | --- | --- | --- |
-| Em construção | — | — | — | Implementações previstas para esta subárea. |
+| Edit Distance (Damerau-Levenshtein) | [`edit_distance.py`](paa2/edit_distance.py) | Python | Lucas Nunes Alegre | Implementa o algoritmo de distância de edição de Damerau-Levenshtein. |
+| Bellman-Ford (caminhos mínimos) | [`bellman_ford.cpp`](paa2/bellman_ford.cpp) | | C++ | Lucas Nunes Alegre | Implementa o algoritmo de Bellman-Ford para encontrar caminhos mínimos em grafos com arestas de peso negativo. |
 
 **Tópicos Avançados**
 | Algoritmo | Arquivos | Linguagem | Autor | Descrição |
@@ -68,3 +70,4 @@ Este repositório é licenciado conforme o arquivo [`LICENSE`](LICENSE).
 ## Créditos e Contato Docente
 
 - Prof. Bruno Iochins Grisci: [https://brunogrisci.github.io/](https://brunogrisci.github.io/)
+- Prof. Lucas Nunes Alegre: [https://lucasalegre.github.io/](https://lucasalegre.github.io/)
