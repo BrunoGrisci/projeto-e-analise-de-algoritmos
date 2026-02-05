@@ -20,6 +20,8 @@ As descrições de escopo abaixo foram extraídas das súmulas e conteúdos dos 
 | Algoritmo/Estrutura | Arquivos | Linguagem | Autor | Descrição |
 | --- | --- | --- | --- | --- |
 | Gale–Shapley (emparelhamento estável) | [`galeshapley.py`](paa1/galeshapley.py) | Python | Bruno Iochins Grisci | Resolve o problema de emparelhamento estável e inclui exemplos e análise empírica. |
+| Quicksort | [`quicksort.rkt`](paa1/quicksort.rkt) | Racket | Bruno Iochins Grisci | Ordena vetores de números de forma recursiva. |
+| Exemplos diversos com custo | [`exemplos_custo.rkt`](paa1/exemplos_custo.rkt) | Racket | Bruno Iochins Grisci | Exemplos diversos recursivos para análise de custo. |
 
 **Algoritmos para grafos**
 | Algoritmo | Arquivos | Linguagem | Autor | Descrição |
