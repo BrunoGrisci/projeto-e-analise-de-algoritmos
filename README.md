@@ -51,7 +51,7 @@ As descrições de escopo abaixo foram extraídas das súmulas e conteúdos dos 
 | Algoritmo | Arquivos | Linguagem | Autor | Descrição |
 | --- | --- | --- | --- | --- |
 | Edit Distance (Damerau-Levenshtein) | [`edit_distance.py`](paa2/edit_distance.py) | Python | Lucas Nunes Alegre | Implementa o algoritmo de distância de edição de Damerau-Levenshtein. |
-| Bellman-Ford (caminhos mínimos) | [`bellman_ford.cpp`](paa2/bellman_ford.cpp) | | C++ | Lucas Nunes Alegre | Implementa o algoritmo de Bellman-Ford para encontrar caminhos mínimos em grafos com arestas de peso negativo. |
+| Bellman-Ford (caminhos mínimos) | [`bellman_ford.cpp`](paa2/bellman_ford.cpp) | C++ | Lucas Nunes Alegre | Implementa o algoritmo de Bellman-Ford para encontrar caminhos mínimos em grafos com arestas de peso negativo. |
 
 **Tópicos Avançados**
 | Algoritmo | Arquivos | Linguagem | Autor | Descrição |
