@@ -70,3 +70,4 @@ Este repositório é licenciado conforme o arquivo [`LICENSE`](LICENSE).
 ## Créditos e Contato Docente
 
 - Prof. Bruno Iochins Grisci: [https://brunogrisci.github.io/](https://brunogrisci.github.io/)
+- Prof. Lucas Nunes Alegre: [https://lucasalegre.github.io/](https://lucasalegre.github.io/)
