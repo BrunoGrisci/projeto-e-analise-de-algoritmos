@@ -75,3 +75,6 @@ Este repositório é licenciado conforme o arquivo [`LICENSE`](LICENSE).
 
 - Prof. Bruno Iochins Grisci: [https://brunogrisci.github.io/](https://brunogrisci.github.io/)
 - Prof. Lucas Nunes Alegre: [https://lucasalegre.github.io/](https://lucasalegre.github.io/)
+
+## Veja também
+- [GitHub da disciplina de Fundamentos de Algoritmos](https://github.com/BrunoGrisci/fundamentos-de-algoritmos-racket.git)
