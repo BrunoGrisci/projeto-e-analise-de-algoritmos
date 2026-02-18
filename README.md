@@ -19,7 +19,8 @@ As descrições de escopo abaixo foram extraídas das súmulas e conteúdos dos 
 **Introdução**
 | Algoritmo/Estrutura | Arquivos | Linguagem | Autor | Descrição |
 | --- | --- | --- | --- | --- |
-| Cashier's Algorithm | [https://github.com/BrunoGrisci/cashiers_algorithm_game/tree/main?tab=readme-ov-file](https://github.com/BrunoGrisci/cashiers_algorithm_game/tree/main?tab=readme-ov-file) | JavaScript | Bruno Iochins Grisci | Jogo educacional web para praticar e ensinar o problema de troco por meio de cenários interativos.|
+| Cashier's Algorithm | [https://github.com/BrunoGrisci/cashiers_algorithm_game](https://github.com/BrunoGrisci/cashiers_algorithm_game) | JavaScript | Bruno Iochins Grisci | Jogo educacional web para praticar e ensinar o problema de troco por meio de cenários interativos.|
+| Karatsuba Multiplication Visualizer | [https://github.com/BrunoGrisci/karatsuba_visualization](https://github.com/BrunoGrisci/karatsuba_visualization) | JavaScript | Bruno Iochins Grisci | Implementação e comparação dos algoritmos de sala de aula e de Karatsuba para multiplicação de inteiros longos.|
 | Gale–Shapley (emparelhamento estável) | [`galeshapley.py`](paa1/galeshapley.py) | Python | Bruno Iochins Grisci | Resolve o problema de emparelhamento estável e inclui exemplos e análise empírica. |
 | Quicksort | [`quicksort.rkt`](paa1/quicksort.rkt) | Racket | Bruno Iochins Grisci | Ordena vetores de números de forma recursiva. |
 | Exemplos diversos com custo | [`exemplos_custo.rkt`](paa1/exemplos_custo.rkt) | Racket | Bruno Iochins Grisci | Exemplos diversos recursivos para análise de custo. |
