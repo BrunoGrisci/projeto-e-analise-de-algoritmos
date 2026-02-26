@@ -50,7 +50,7 @@ As descrições de escopo abaixo foram extraídas das súmulas e conteúdos dos 
 | Hierholzer (caminho euleriano) | [`hierholzer.py`](paa1/hierholzer.py) | Python | Bruno Iochins Grisci | Encontra um caminho euleriano em grafo direcionado usando pilha explícita. |
 | Welsh–Powell (coloração gulosa) | [`welsh_powell.py`](paa1/welsh_powell.py) | Python | Bruno Iochins Grisci | Colore vértices de um grafo usando ordenação por grau e estratégia gulosa. |
 
-**Análise Combinatória**
+**Análise combinatória**
 | Algoritmo | Arquivos | Linguagem | Autor | Descrição |
 | --- | --- | --- | --- | --- |
 | Princípios de contagem | [`Combinatoria.rkt`](combinatoria/Combinatoria.rkt) | Racket | Rodrigo Machado | Gera enumerações extensas de combinações, arranjos, permutações, combinações com reposição, arranjos com reposição, Triângulo de Pascal. |
@@ -61,21 +61,21 @@ As descrições de escopo abaixo foram extraídas das súmulas e conteúdos dos 
 
 **Escopo:** divisão e conquista, programação dinâmica, técnicas avançadas de projeto e estruturas de dados avançadas.
 
-**Divisão e Conquista**
+**Divisão e conquista**
 | Algoritmo | Arquivos | Linguagem | Autor | Descrição |
 | --- | --- | --- | --- | --- |
 | Karatsuba Multiplication Visualizer | [https://github.com/BrunoGrisci/karatsuba_visualization](https://github.com/BrunoGrisci/karatsuba_visualization) | JavaScript | Bruno Iochins Grisci | Implementação e comparação dos algoritmos de sala de aula e de Karatsuba para multiplicação de inteiros longos.|
 | Contagem de Inversões | [`inversions.cpp`](paa2/inversions.cpp) | C++ | Lucas Nunes Alegre | Implementa o algoritmo de contagem de inversões em um array usando Divisão e Conquista. |
 | Par Mais Próximo (2D) | [`closest_pair.cpp`](paa2/closest_pair.cpp) | C++ | Lucas Nunes Alegre | Implementa o algoritmo de Par Mais Próximo em 2D usando abordagem de Divisão e Conquista. |
 
-**Programação Dinâmica**
+**Programação dinâmica**
 | Algoritmo | Arquivos | Linguagem | Autor | Descrição |
 | --- | --- | --- | --- | --- |
 | Cashier's Algorithm | [https://github.com/BrunoGrisci/cashiers_algorithm_game](https://github.com/BrunoGrisci/cashiers_algorithm_game) | JavaScript | Bruno Iochins Grisci | Jogo educacional web para praticar e ensinar o problema de troco por meio de cenários interativos.|
 | Edit Distance (Damerau-Levenshtein) | [`edit_distance.py`](paa2/edit_distance.py) | Python | Lucas Nunes Alegre | Implementa o algoritmo de distância de edição de Damerau-Levenshtein. |
 | Bellman-Ford (caminhos mínimos) | [`bellman_ford.cpp`](paa2/bellman_ford.cpp) | C++ | Lucas Nunes Alegre | Implementa o algoritmo de Bellman-Ford para encontrar caminhos mínimos em grafos com arestas de peso negativo. |
 
-**Tópicos Avançados**
+**Tópicos avançados**
 | Algoritmo | Arquivos | Linguagem | Autor | Descrição |
 | --- | --- | --- | --- | --- |
 | Em construção | — | — | — | Implementações previstas para esta subárea. |
