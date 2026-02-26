@@ -30,8 +30,8 @@ As descrições de escopo abaixo foram extraídas das súmulas e conteúdos dos 
 **Algoritmos para grafos**
 | Algoritmo | Arquivos | Linguagem | Autor | Descrição |
 | --- | --- | --- | --- | --- |
-| Busca em grafos | [`graph-search-complete.py`](paa1/graph-search-complete.py) | Python | Rodrigo Machado | Algoritmos de busca em grafos: BFS, DFS, distância em grafos sem pesos, teste de ciclos, teste de bipartição, quantidade de componentes conexos, toposort. Kahn, Kosaraju-Shamir|
-| Busca em grafos | [`graph-search-bfs-dfs.py`](paa1/graph-search-bfs-dfs.py) | Python | Rodrigo Machado | Algoritmos de busca em grafos: BFS, DFS, distância em grafos sem pesos, teste de conexão, rota|
+| Busca em grafos | [`graph-search-complete.py`](paa1/graph-search-complete.py) | Python | Rodrigo Machado | Algoritmos de busca em grafos: BFS, DFS, distância em grafos sem pesos, teste de ciclos, teste de bipartição, quantidade de componentes conexos, toposort, Kahn, Kosaraju-Shamir. |
+| Busca em grafos | [`graph-search-bfs-dfs.py`](paa1/graph-search-bfs-dfs.py) | Python | Rodrigo Machado | Algoritmos de busca em grafos: BFS, DFS, distância em grafos sem pesos, teste de conexão, rota. |
 
 **Algoritmos gulosos**
 | Algoritmo | Arquivos | Linguagem | Autor | Descrição |
@@ -51,11 +51,11 @@ As descrições de escopo abaixo foram extraídas das súmulas e conteúdos dos 
 | Welsh–Powell (coloração gulosa) | [`welsh_powell.py`](paa1/welsh_powell.py) | Python | Bruno Iochins Grisci | Colore vértices de um grafo usando ordenação por grau e estratégia gulosa. |
 
 **Análise Combinatória**
+| Algoritmo | Arquivos | Linguagem | Autor | Descrição |
 | --- | --- | --- | --- | --- |
 | Princípios de contagem | [`Combinatoria.rkt`](combinatoria/Combinatoria.rkt) | Racket | Rodrigo Machado | Gera enumerações extensas de combinações, arranjos, permutações, combinações com reposição, arranjos com reposição, Triângulo de Pascal. |
-| Permutações caóticas | [`chaotic_permutation.py`](combinatoria/chaotic_permutation.py) | Python | Bruno Iochins Grisci | Estima a probabilidade de uma permutação ser caótica (desarranjo) (uma permutação onde nenhum elemento permanece na mesma posição). Para n>2, essa proporção é 1/e.|
-| Sequência de Tribonacci | [`tribonacci.py`](combinatoria/tribonacci.py) | Python | Bruno Iochins Grisci | Gera a sequência de Tribonacci. A sequência de
-Tribonacci é uma generalização da sequência de Fibonacci, onde cada termo é a soma dos três anteriores, começando por 0, 0, 1 (ou 0, 1, 1).|
+| Permutações caóticas | [`chaotic_permutation.py`](combinatoria/chaotic_permutation.py) | Python | Bruno Iochins Grisci | Estima a probabilidade de uma permutação ser caótica (desarranjo) (uma permutação onde nenhum elemento permanece na mesma posição). Para n>2, essa proporção é 1/e. |
+| Sequência de Tribonacci | [`tribonacci.py`](combinatoria/tribonacci.py) | Python | Bruno Iochins Grisci | Gera a sequência de Tribonacci. A sequência de Tribonacci é uma generalização da sequência de Fibonacci, onde cada termo é a soma dos três anteriores, começando por 0, 0, 1 (ou 0, 1, 1).|
 
 ## Projeto e Análise de Algoritmos II (INF05028)
 
