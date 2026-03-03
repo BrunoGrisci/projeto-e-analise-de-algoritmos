@@ -21,8 +21,8 @@ As descrições de escopo abaixo foram extraídas das súmulas e conteúdos dos 
 | --- | --- | --- | --- | --- |
 | Cashier's Algorithm | [https://github.com/BrunoGrisci/cashiers_algorithm_game](https://github.com/BrunoGrisci/cashiers_algorithm_game) | JavaScript | Bruno Iochins Grisci | Jogo educacional web para praticar e ensinar o problema de troco por meio de cenários interativos.|
 | Karatsuba Multiplication Visualizer | [https://github.com/BrunoGrisci/karatsuba_visualization](https://github.com/BrunoGrisci/karatsuba_visualization) | JavaScript | Bruno Iochins Grisci | Implementação e comparação dos algoritmos de sala de aula e de Karatsuba para multiplicação de inteiros longos.|
-| Gale–Shapley (stable roommates problem) | [`galeshapley.py`](paa1/galeshapley.py) | Python | Bruno Iochins Grisci | Resolve o problema de emparelhamento estável e inclui exemplos e análise empírica. |
-| Irving (emparelhamento estável) | [`irving.py`](paa1/irving.py) | Python | Bruno Iochins Grisci | Resolve o problema de emparelhamento estável de colegas de quarto (um só grupo) e inclui exemplos e análise empírica. |
+| Gale–Shapley (emparelhamento estável) | [`galeshapley.py`](paa1/galeshapley.py) | Python | Bruno Iochins Grisci | Resolve o problema de emparelhamento estável e inclui exemplos e análise empírica. |
+| Irving (stable roommates problem) | [`irving.py`](paa1/irving.py) | Python | Bruno Iochins Grisci | Resolve o problema de emparelhamento estável de colegas de quarto (um só grupo) e inclui exemplos e análise empírica. |
 | Stable Matching Visualizer | [https://github.com/BrunoGrisci/stable-matching-visualizer](https://github.com/BrunoGrisci/stable-matching-visualizer) | JavaScript | Bruno Iochins Grisci | Ferramenta web para visualização do emparelhamento estável e algoritmos de Gale-Shapley e Irving. |
 | Ordenamento | [`ordenamento.py`](paa1/ordenamento.py) | Python | Rodrigo Machado | Diversos algoritmos de ordenamento de vetores: InsertionSort, SelectionSort, BubbleSort, MergeSort, QuickSort.|
 | Quicksort | [`quicksort.rkt`](paa1/quicksort.rkt) | Racket | Bruno Iochins Grisci | Ordena vetores de números de forma recursiva. |
