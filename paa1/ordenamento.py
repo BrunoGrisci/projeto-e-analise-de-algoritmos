@@ -101,6 +101,7 @@ def merge(array, aux, inicio, meio, fim):
             array[atual] = aux[direita]
             direita += 1
         atual += 1
+
     while esquerda <= meio:
         array[atual] = aux[esquerda]
         esquerda += 1
@@ -317,4 +318,4 @@ if __name__ == "__main__":
 	print(l1)
 
 	debug = False
-	benchmark()
+	#benchmark()
