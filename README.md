@@ -32,6 +32,7 @@ As descrições de escopo abaixo foram extraídas das súmulas e conteúdos dos 
 **Algoritmos para grafos**
 | Algoritmo | Arquivos | Linguagem | Autor | Descrição |
 | --- | --- | --- | --- | --- |
+| Estruturas de dados para grafos | [`graph_example.ipynb`](paa1/graph_example.ipynb) | Python | Lucas Nunes Alegre | Demonstração de matriz de adjacência e lista de adjacência para grafos em Python. |
 | Busca em grafos | [`graph-search-complete.py`](paa1/graph-search-complete.py) | Python | Rodrigo Machado | Algoritmos de busca em grafos: BFS, DFS, distância em grafos sem pesos, teste de ciclos, teste de bipartição, quantidade de componentes conexos, toposort, Kahn, Kosaraju-Shamir. |
 | Busca em grafos | [`graph-search-bfs-dfs.py`](paa1/graph-search-bfs-dfs.py) | Python | Rodrigo Machado | Algoritmos de busca em grafos: BFS, DFS, distância em grafos sem pesos, teste de conexão, rota. |
 
