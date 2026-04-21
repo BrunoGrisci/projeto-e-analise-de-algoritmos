@@ -42,6 +42,7 @@ As descrições de escopo abaixo foram extraídas das súmulas e conteúdos dos 
 | Algoritmo | Arquivos | Linguagem | Autor | Descrição |
 | --- | --- | --- | --- | --- |
 | Intervalos | [`intervalos.py`](paa1/intervalos.py) | Python | Rodrigo Machado | Escalonamento de intervalos. Particionamento de intervalos. Minimização de atraso máximo. |
+| Intervalos e Cache | [`https://github.com/BrunoGrisci/scheduling-algorithms.git`](https://github.com/BrunoGrisci/scheduling-algorithms.git) | JavaScript | Bruno Iochins Grisci | Implementação e visualização de algoritmos de agendamento e caching. |
 | Dijkstra (caminhos mínimos) | [`naivedijkstra.py`](paa1/naivedijkstra.py) | Python | Bruno Iochins Grisci | Calcula distâncias mínimas em grafos com pesos positivos (versão simples). |
 | Dijkstra (caminhos mínimos) | [`heapdijkstra.py`](paa1/heapdijkstra.py) | Python | Bruno Iochins Grisci | Calcula distâncias mínimas em grafos com pesos positivos (versão com heap). |
 | Dijkstra (caminhos mínimos) | [`dijkstra.py`](paa1/dijkstra.py) | Python | Rodrigo Machado | Calcula distâncias mínimas em grafos com pesos positivos (versão simples). |
