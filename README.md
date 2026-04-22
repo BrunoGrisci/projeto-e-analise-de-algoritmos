@@ -41,8 +41,9 @@ As descrições de escopo abaixo foram extraídas das súmulas e conteúdos dos 
 **Algoritmos gulosos**
 | Algoritmo | Arquivos | Linguagem | Autor | Descrição |
 | --- | --- | --- | --- | --- |
-| Intervalos | [`intervalos.py`](paa1/intervalos.py) | Python | Rodrigo Machado | Escalonamento de intervalos. Particionamento de intervalos. Minimização de atraso máximo. |
+| Intervalos e Cache | [`scheduling.ipynb`](paa1/scheduling.ipynb) | Python | Lucas Nunes Alegre | Implementação de algoritmos de scheduling e caching. |
 | Intervalos e Cache | [`https://github.com/BrunoGrisci/scheduling-algorithms.git`](https://github.com/BrunoGrisci/scheduling-algorithms.git) | JavaScript | Bruno Iochins Grisci | Implementação e visualização de algoritmos de agendamento e caching. |
+| Intervalos | [`intervalos.py`](paa1/intervalos.py) | Python | Rodrigo Machado | Escalonamento de intervalos. Particionamento de intervalos. Minimização de atraso máximo. |
 | Dijkstra (caminhos mínimos) | [`naivedijkstra.py`](paa1/naivedijkstra.py) | Python | Bruno Iochins Grisci | Calcula distâncias mínimas em grafos com pesos positivos (versão simples). |
 | Dijkstra (caminhos mínimos) | [`heapdijkstra.py`](paa1/heapdijkstra.py) | Python | Bruno Iochins Grisci | Calcula distâncias mínimas em grafos com pesos positivos (versão com heap). |
 | Dijkstra (caminhos mínimos) | [`dijkstra.py`](paa1/dijkstra.py) | Python | Rodrigo Machado | Calcula distâncias mínimas em grafos com pesos positivos (versão simples). |
