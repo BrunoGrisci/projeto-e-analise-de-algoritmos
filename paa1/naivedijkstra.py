@@ -130,7 +130,7 @@ def dijkstra_naive(graph: Adj, source: Node) -> Tuple[Dict[Node, Weight], Dict[N
           'b': [('c', 1)],
           'c': []
       }
-      dist, parent = dijkstra_ve(G, 's')
+      dist, parent = dijkstra_naive(G, 's')
 
     Observações:
       - Este código evita estruturas avançadas (como heap/fila de prioridade)
@@ -272,7 +272,6 @@ if __name__ == "__main__":
             'D': [('A', 5), ('B', 4), ('E', 2)],
             'E': [('D', 2), ('C', 6)],
             'F': [],
-
         }
 
         print("graph:", GExemp)
