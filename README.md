@@ -49,7 +49,7 @@ As descrições de escopo abaixo foram extraídas das súmulas e conteúdos dos 
 | Dijkstra (caminhos mínimos) | [`heapdijkstra.py`](paa1/heapdijkstra.py) | Python | Bruno Iochins Grisci | Calcula distâncias mínimas em grafos com pesos positivos (versão com heap). |
 | Dijkstra (caminhos mínimos) | [`dijkstra.py`](paa1/dijkstra.py) | Python | Rodrigo Machado | Calcula distâncias mínimas em grafos com pesos positivos (versão simples). |
 | Heap mínimo (min-heap) | [`heap_demo.py`](paa1/heap_demo.py) | Python | Bruno Iochins Grisci | Demonstra operações de heap mínimo com visualização e rastreio didático. Observação: há um repositório dedicado em [https://github.com/BrunoGrisci/heap-demo](https://github.com/BrunoGrisci/heap-demo). |
-| Prim e Kruskal (Árvore Geradora Mínima) | [`arvore_geradora_minima.ipynb`](paa1/arvore_geradora_minima.ipynb) | Python | Lucas Nunes Alegre | Implementação dos algoritmos de Prim e Kruskal para encontrar a árvore geradora mínima em grafos. |
+| Codificação de Prüfer e Algoritmos de Prim e Kruskal (Árvore Geradora Mínima) | [`arvore_geradora_minima.ipynb`](paa1/arvore_geradora_minima.ipynb) | Python | Lucas Nunes Alegre | Implementação da codificação de Prüfer e dos algoritmos de Prim e Kruskal para encontrar a árvore geradora mínima em grafos. |
 | Kruskal | [`kruskal.py`](paa1/kruskal.py) | Python | Rodrigo Machado | Encontra a árvore geradora mínima. |
 | Código de Huffman | [`huffman.py`](paa1/huffman.py) | Python | Rodrigo Machado | Constroi a codificação da Huffman com base na frequência de caracteres do texto original para compressão de texto. Usa como exemplo de entrada o texto original de Alice in Wonderland: [`alice.txt`](paa1/alice.txt).|
 
