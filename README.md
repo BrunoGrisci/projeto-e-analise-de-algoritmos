@@ -51,7 +51,7 @@ As descrições de escopo abaixo foram extraídas das súmulas e conteúdos dos 
 | Heap mínimo (min-heap) | [`heap_demo.py`](paa1/heap_demo.py) | Python | Bruno Iochins Grisci | Demonstra operações de heap mínimo com visualização e rastreio didático. Observação: há um repositório dedicado em [https://github.com/BrunoGrisci/heap-demo](https://github.com/BrunoGrisci/heap-demo). |
 | Código de Prüfer (heap) | [`prufer_heap.py`](paa1/prufer_heap.py) | Python | Bruno Iochins Grisci | Codifica e decodifica árvores rotuladas pelo código de Prüfer em tempo O(n log n) usando heap. |
 | Código de Prüfer (linear) | [`prufer_linear.py`](paa1/prufer_linear.py) | Python | Bruno Iochins Grisci | Codifica e decodifica árvores rotuladas pelo código de Prüfer em tempo O(n) usando ponteiro e vetor de graus. |
-| Prim e Kruskal (Árvore Geradora Mínima) | [`arvore_geradora_minima.ipynb`](paa1/arvore_geradora_minima.ipynb) | Python | Lucas Nunes Alegre | Implementação dos algoritmos de Prim e Kruskal para encontrar a árvore geradora mínima em grafos. |
+| Codificação de Prüfer e Algoritmos de Prim e Kruskal (Árvore Geradora Mínima) | [`arvore_geradora_minima.ipynb`](paa1/arvore_geradora_minima.ipynb) | Python | Lucas Nunes Alegre | Implementação da codificação de Prüfer e dos algoritmos de Prim e Kruskal para encontrar a árvore geradora mínima em grafos. |
 | Kruskal | [`kruskal.py`](paa1/kruskal.py) | Python | Rodrigo Machado | Encontra a árvore geradora mínima. |
 | Código de Huffman | [`huffman.py`](paa1/huffman.py) | Python | Rodrigo Machado | Constroi a codificação da Huffman com base na frequência de caracteres do texto original para compressão de texto. Usa como exemplo de entrada o texto original de Alice in Wonderland: [`alice.txt`](paa1/alice.txt).|
 
