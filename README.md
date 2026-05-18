@@ -41,10 +41,10 @@ As descrições de escopo abaixo foram extraídas das súmulas e conteúdos dos 
 **Algoritmos gulosos**
 | Algoritmo | Arquivos | Linguagem | Autor | Descrição |
 | --- | --- | --- | --- | --- |
-| Intervalos e Cache | [`scheduling.ipynb`](paa1/scheduling.ipynb) | Python | Lucas Nunes Alegre | Implementação de algoritmos de scheduling e caching. |
+| Intervalos e Cache | [`scheduling.ipynb`](paa1/scheduling.ipynb) | Python/Notebook | Lucas Nunes Alegre | Implementação de algoritmos de scheduling e caching. |
 | Intervalos e Cache | [`https://github.com/BrunoGrisci/scheduling-algorithms.git`](https://github.com/BrunoGrisci/scheduling-algorithms.git) | JavaScript | Bruno Iochins Grisci | Implementação e visualização de algoritmos de agendamento e caching. |
 | Intervalos | [`intervalos.py`](paa1/intervalos.py) | Python | Rodrigo Machado | Escalonamento de intervalos. Particionamento de intervalos. Minimização de atraso máximo. |
-| Dijkstra (caminhos mínimos) | [`dijkstra.ipynb`](paa1/dijkstra.ipynb) | Python | Lucas Nunes Alegre | Implementação do algoritmo de Dijkstra para encontrar caminhos mínimos em grafos com pesos não-negativos. |
+| Dijkstra (caminhos mínimos) | [`dijkstra.ipynb`](paa1/dijkstra.ipynb) | Python/Notebook | Lucas Nunes Alegre | Implementação do algoritmo de Dijkstra para encontrar caminhos mínimos em grafos com pesos não-negativos. |
 | Dijkstra (caminhos mínimos) | [`naivedijkstra.py`](paa1/naivedijkstra.py) | Python | Bruno Iochins Grisci | Calcula distâncias mínimas em grafos com pesos positivos (versão simples). |
 | Dijkstra (caminhos mínimos) | [`heapdijkstra.py`](paa1/heapdijkstra.py) | Python | Bruno Iochins Grisci | Calcula distâncias mínimas em grafos com pesos positivos (versão com heap). |
 | Dijkstra (caminhos mínimos) | [`dijkstra.py`](paa1/dijkstra.py) | Python | Rodrigo Machado | Calcula distâncias mínimas em grafos com pesos positivos (versão simples). |
@@ -53,6 +53,7 @@ As descrições de escopo abaixo foram extraídas das súmulas e conteúdos dos 
 | Código de Prüfer (linear) | [`prufer_linear.py`](paa1/prufer_linear.py) | Python | Bruno Iochins Grisci | Codifica e decodifica árvores rotuladas pelo código de Prüfer em tempo O(n) usando ponteiro e vetor de graus. |
 | Codificação de Prüfer e Algoritmos de Prim e Kruskal (Árvore Geradora Mínima) | [`arvore_geradora_minima.ipynb`](paa1/arvore_geradora_minima.ipynb) | Python | Lucas Nunes Alegre | Implementação da codificação de Prüfer e dos algoritmos de Prim e Kruskal para encontrar a árvore geradora mínima em grafos. |
 | Kruskal | [`kruskal.py`](paa1/kruskal.py) | Python | Rodrigo Machado | Encontra a árvore geradora mínima. |
+| Código de Huffman | [`huffman.ipynb`](paa1/huffman.ipynb) | Python/Notebook | Lucas Nunes Alegre | Constrói a codificação de Huffman com base na frequência de caracteres do texto original para compressão de texto. Usa como exemplo de entrada o texto original de Alice in Wonderland: [`alice.txt`](paa1/alice.txt).|
 | Código de Huffman | [`huffman.py`](paa1/huffman.py) | Python | Rodrigo Machado | Constroi a codificação da Huffman com base na frequência de caracteres do texto original para compressão de texto. Usa como exemplo de entrada o texto original de Alice in Wonderland: [`alice.txt`](paa1/alice.txt).|
 
 **Teoria dos grafos**
