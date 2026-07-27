@@ -19,6 +19,7 @@ As descrições de escopo abaixo foram extraídas das súmulas e conteúdos dos 
 **Introdução**
 | Algoritmo/Estrutura | Arquivos | Linguagem | Autor | Descrição |
 | --- | --- | --- | --- | --- |
+| Cashier's Algorithm | [`troco.py`](paa1/troco.py) | Python | Lucas Nunes Alegre | Implementa o algoritmo guloso para o problema de troco. |
 | Cashier's Algorithm | [https://github.com/BrunoGrisci/cashiers_algorithm_game](https://github.com/BrunoGrisci/cashiers_algorithm_game) | JavaScript | Bruno Iochins Grisci | Jogo educacional web para praticar e ensinar o problema de troco por meio de cenários interativos.|
 | Karatsuba Multiplication Visualizer | [https://github.com/BrunoGrisci/karatsuba_visualization](https://github.com/BrunoGrisci/karatsuba_visualization) | JavaScript | Bruno Iochins Grisci | Implementação e comparação dos algoritmos de sala de aula e de Karatsuba para multiplicação de inteiros longos.|
 | Gale–Shapley (emparelhamento estável) | [`galeshapley.py`](paa1/galeshapley.py) | Python | Bruno Iochins Grisci | Resolve o problema de emparelhamento estável e inclui exemplos e análise empírica. |
