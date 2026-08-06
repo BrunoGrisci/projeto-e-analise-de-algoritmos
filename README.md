@@ -84,6 +84,7 @@ As descrições de escopo abaixo foram extraídas das súmulas e conteúdos dos 
 **Programação dinâmica**
 | Algoritmo | Arquivos | Linguagem | Autor | Descrição |
 | --- | --- | --- | --- | --- |
+| Cashier's Algorithm | [`troco.py`](paa2/troco.py) | Python | Lucas Nunes Alegre | Implementa o algoritmo de programação dinâmica para o problema de troco. |
 | Cashier's Algorithm | [https://github.com/BrunoGrisci/cashiers_algorithm_game](https://github.com/BrunoGrisci/cashiers_algorithm_game) | JavaScript | Bruno Iochins Grisci | Jogo educacional web para praticar e ensinar o problema de troco por meio de cenários interativos.|
 | Edit Distance (Damerau-Levenshtein) | [`edit_distance.py`](paa2/edit_distance.py) | Python | Lucas Nunes Alegre | Implementa o algoritmo de distância de edição de Damerau-Levenshtein. |
 | Bellman-Ford (caminhos mínimos) | [`bellman_ford.cpp`](paa2/bellman_ford.cpp) | C++ | Lucas Nunes Alegre | Implementa o algoritmo de Bellman-Ford para encontrar caminhos mínimos em grafos com arestas de peso negativo. |

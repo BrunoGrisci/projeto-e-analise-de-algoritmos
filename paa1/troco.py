@@ -1,3 +1,5 @@
+"""Cashier's Algorithm - Greedy"""
+
 from typing import List
 
 
@@ -19,6 +21,7 @@ def greedy_troco(valor: float, moedas: List[int]):
                 break
         if sem_solucao:
             print("Sem solução!")
+            return troco
     return troco
 
 
